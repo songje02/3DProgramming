@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3주차", "3DProgramming\3DProgramming.vcxproj", "{415D8B24-54A5-4FD6-9404-68E2FEFE9F40}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6주차", "6주차\6주차.vcxproj", "{901DFFB3-5978-4842-AC9D-7166DA1A5435}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10주차", "10주차\10주차.vcxproj", "{24E49E8C-12DF-4269-971A-CE6D83B400EE}"
@@ -17,14 +15,6 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{415D8B24-54A5-4FD6-9404-68E2FEFE9F40}.Debug|x64.ActiveCfg = Debug|x64
-		{415D8B24-54A5-4FD6-9404-68E2FEFE9F40}.Debug|x64.Build.0 = Debug|x64
-		{415D8B24-54A5-4FD6-9404-68E2FEFE9F40}.Debug|x86.ActiveCfg = Debug|Win32
-		{415D8B24-54A5-4FD6-9404-68E2FEFE9F40}.Debug|x86.Build.0 = Debug|Win32
-		{415D8B24-54A5-4FD6-9404-68E2FEFE9F40}.Release|x64.ActiveCfg = Release|x64
-		{415D8B24-54A5-4FD6-9404-68E2FEFE9F40}.Release|x64.Build.0 = Release|x64
-		{415D8B24-54A5-4FD6-9404-68E2FEFE9F40}.Release|x86.ActiveCfg = Release|Win32
-		{415D8B24-54A5-4FD6-9404-68E2FEFE9F40}.Release|x86.Build.0 = Release|Win32
 		{901DFFB3-5978-4842-AC9D-7166DA1A5435}.Debug|x64.ActiveCfg = Debug|x64
 		{901DFFB3-5978-4842-AC9D-7166DA1A5435}.Debug|x64.Build.0 = Debug|x64
 		{901DFFB3-5978-4842-AC9D-7166DA1A5435}.Debug|x86.ActiveCfg = Debug|Win32
